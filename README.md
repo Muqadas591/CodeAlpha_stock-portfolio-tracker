@@ -1,0 +1,2 @@
+The Stock Portfolio Tracker is a Python-based application that allows users to manage their stock investments efficiently. This tool enables users to add, remove, and track the performance of their stock portfolio in real-time. Additionally, users can save and load their portfolio data and visualize the performance of their stocks through an interactive bar chart.This project is part of the Python coding internship at Code_Alpha and demonstrates key concepts in Python programming, including GUI development, API integration, and data visualization.
+
